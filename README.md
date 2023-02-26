@@ -4,7 +4,7 @@ My first Portfolio Webpage.
 
 I took the FreeCodeCamp Legacy Responsive Web Design Course and this is the 5th & last project to build and get a certificate.
 
-It is also my very first portfolio Webpage, built with onky HTML and CSS. I am nearly done, 90% done.
+It is also my very first portfolio Webpage, built with only HTML and CSS. I am nearly done, 90% done.
 <img src="https://em-content.zobj.net/thumbs/240/google/350/face-with-peeking-eye_1fae3.png" width="30">
 
 Deployed on netlify, check it here.
