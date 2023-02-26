@@ -7,7 +7,7 @@ I took the FreeCodeCamp Legacy Responsive Web Design Course and this is the 5th 
 It is also my very first portfolio Webpage, built with only HTML and CSS. I am nearly done, 90% done.
 <img src="https://em-content.zobj.net/thumbs/240/google/350/face-with-peeking-eye_1fae3.png" width="30">
 
-Deployed on netlify, check it here.
+Deployed on netlify, check it [here](https://dashing-dodol-08b921.netlify.app/).
 
 
 I am done with the course and have set out to building other cool websites now, check my other projects in my Respository.
